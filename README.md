@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niraj Lamichhane</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
 
-<img align="right"alt="coding"width="400" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif" />
+<img "width="400" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajlamichhane10&label=Profile%20views&color=0e75b6&style=flat" alt="nirajlamichhane10" /> </p>
 
