@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Niraj Lamichhane</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
 
-<img align="right" height:"100px" wight:"100px" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajlamichhane10&label=Profile%20views&color=0e75b6&style=flat" alt="nirajlamichhane10" /> </p>
+- 🔭 I’have completed my bachlore in **Bsc(Hons) in Computing** from Herald College  & doing internship as a **Frontend Deverloper**.
 
-- 🔭 I’m currently Studying Computer Science & doing my final year project **Grocery Management System**
-
-- 🌱 I’m currently learning **Computer Science and Web Development(MERN)**
+- 🌱 I’m currently learning **Computer Science and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nirajlamichhane10](https://github.com/Nirajlamichhane10)
 
